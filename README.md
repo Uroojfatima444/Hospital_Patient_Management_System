@@ -1,33 +1,31 @@
-## Hospital Patient Management System using BST
+# Hospital Patient Management System using BST
 
-A C++ console-based application for managing hospital patient records using Binary Search Tree (BST).
+## Project Overview
+This project is developed in C++ using Data Structures and Algorithms (DSA). It manages hospital patient records efficiently using a Binary Search Tree (BST).
+
+## DSA Concepts Used
+
+- Binary Search Tree (BST)
+- Recursive Insertion
+- Recursive Searching
+- Recursive Deletion
+- Inorder Traversal
+- Preorder Traversal
+- Postorder Traversal
 
 ## Features
 
 - Add Patient
 - Search Patient
 - Delete Patient
-- Inorder Traversal
-- Preorder Traversal
-- Postorder Traversal
-- File Handling (Save & Load)
+- Display Patient Records
+- Save Data to File
+- Load Data from File
 - Menu Driven Interface
 
-## Data Structures Used
-
-- Binary Search Tree (BST)
-- Recursion
-
-## Concepts Covered
-
-- Insertion
-- Searching
-- Deletion
-- Tree Traversals
-- File Handling
-- Object-Oriented Programming (OOP)
-
-## Technologies
+## Technologies Used
 
 - C++
-- Dev-C++
+- Object-Oriented Programming (OOP)
+- File Handling
+- Data Structures & Algorithms (DSA)
